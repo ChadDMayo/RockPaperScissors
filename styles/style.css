@@ -1,2 +1,9 @@
+html {
+  background-color: black;
+  font-family: arial, sans-serif;
+  text-align: center;
+}
 
-
+h1 {
+  color: white;
+}
